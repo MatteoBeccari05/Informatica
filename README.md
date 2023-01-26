@@ -4,6 +4,7 @@ Eseguire il file con estensione .sln
 
 
 
+
 I file con estensione .cs sono file di codice
 
 Creare un nuovo progetto di tipo App Console (C#) su Visual Studio
